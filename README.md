@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals by Mausam
+# GitHub Actions Fundamentals by Mausam Sharma
 
 Repo for the `GitHub Actions Fundamentals` training.
 
