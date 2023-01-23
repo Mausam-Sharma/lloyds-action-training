@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals by Mausam Sharma
+# GitHub Actions Fundamentals by Mausam Sharma - try branch
 
 Repo for the `GitHub Actions Fundamentals` training.
 
